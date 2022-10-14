@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMattee"/>
 <div>
 	<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -16,4 +17,5 @@
 	<a href="https://www.linkedin.com/in/abdul-mattee123" target="_blank">
 	<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
 	</a>
+</div>
 </div>
