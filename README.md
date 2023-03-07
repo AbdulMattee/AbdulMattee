@@ -14,7 +14,7 @@
 	<a href="mailto:abdulmattee123@gmail.com" target="_blank">
 	<img height="30" src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logoColor=white&logo=gmail&color=red" />
 	</a>
-	<a href="https://www.linkedin.com/in/abdul-mattee123" target="_blank">
+	<a href="https://www.linkedin.com/in/abdul-mattee/" target="_blank">
 	<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
 	</a>
 	<a href="https://stackoverflow.com/users/15460455/abdul-mattee" target="_blank">
